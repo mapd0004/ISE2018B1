@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ise 2018-2019 Grupo B1 Practica 2 Leccion 2
+=======
+ISE 2019-2019 GRUPO B1 LECCION2 MIGUEL ANGEL PEREZ DIAZ
+>>>>>>> 2ccb58a31e08694a4e9edcccfc03bad97239985b
