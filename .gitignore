@@ -1,15 +1,8 @@
-<<<<<<< HEAD
+
 No copiar ficheros de seguridad
 *.bak
 *.obj
 *.class
 *.lib
 *.o
-=======
-NO COPIAR FICHEROS DE COPIA DE SEGURIDAD
-*.BAK
-*.OBJ
-*.CLASS
-*.LIB
-*.O
->>>>>>> 2ccb58a31e08694a4e9edcccfc03bad97239985b
+
