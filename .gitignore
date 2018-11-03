@@ -1,0 +1,6 @@
+No copiar ficheros de seguridad
+*.bak
+*.obj
+*.class
+*.lib
+*.o
